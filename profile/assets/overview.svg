@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">jiachao-supply-chain</title>
+  <desc id="desc">GitHub organization. Public repositories and documentation. A dark blue banner with an abstract network of connected squares.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101e35"/>
+      <stop offset="1" stop-color="#0a1221"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67e8d5"/>
+      <stop offset="1" stop-color="#6fa8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a1bde1" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="48" width="28" height="4" rx="2" fill="url(#accent)"/>
+  <text x="90" y="56" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2.6" fill="#a4b6cf">GITHUB ORGANIZATION</text>
+  <text x="48" y="159" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="650" letter-spacing="-1.8" fill="#f3f7ff">jiachao-supply-chain</text>
+  <text x="51" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="0.4" fill="#acbdd3">Public repositories &amp; documentation</text>
+  <path d="M50 264H770" stroke="#2a3b54"/>
+  <path d="M50 264H146" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M883 101H970V158H1058V235H1128M970 158V258M970 158V62H1096" stroke="#29415e" stroke-width="2"/>
+    <path d="M883 101H970V158H1058" stroke="url(#accent)" stroke-width="2.5"/>
+    <rect x="850" y="68" width="66" height="66" rx="14" fill="#172f43" stroke="#67e8d5" stroke-width="2"/>
+    <rect x="937" y="125" width="66" height="66" rx="14" fill="#172740" stroke="#7db3ff" stroke-width="2"/>
+    <rect x="1025" y="125" width="66" height="66" rx="14" fill="#14263a" stroke="#4c749e" stroke-width="2"/>
+    <path d="M871 101H895M883 89V113" stroke="#67e8d5" stroke-width="2"/>
+    <path d="M957 152L970 165L983 152" stroke="#7db3ff" stroke-width="2"/>
+    <rect x="1049" y="149" width="18" height="18" rx="4" stroke="#8eaac9" stroke-width="2"/>
+    <circle cx="970" cy="258" r="5" fill="#0d1728" stroke="#4c749e" stroke-width="2"/>
+    <circle cx="1096" cy="62" r="5" fill="#0d1728" stroke="#4c749e" stroke-width="2"/>
+    <circle cx="1128" cy="235" r="5" fill="#0d1728" stroke="#4c749e" stroke-width="2"/>
+  </g>
+</svg>
