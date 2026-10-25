@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">jiachao-supply-chain</title>
-  <desc id="desc">GitHub organization. Public repositories and documentation. A dark blue banner with an abstract network of connected squares.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">嘉潮供应链 · jiachao-supply-chain</title>
+  <desc id="desc">Pattern assets, artwork collaboration and POD software development. A dark blue banner with connected asset and design symbols.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#101e35"/>
@@ -14,15 +14,16 @@
       <path d="M40 0H0V40" fill="none" stroke="#a1bde1" stroke-opacity="0.045"/>
     </pattern>
   </defs>
-  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
-  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
   <rect x="48" y="48" width="28" height="4" rx="2" fill="url(#accent)"/>
-  <text x="90" y="56" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2.6" fill="#a4b6cf">GITHUB ORGANIZATION</text>
-  <text x="48" y="159" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="650" letter-spacing="-1.8" fill="#f3f7ff">jiachao-supply-chain</text>
-  <text x="51" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="0.4" fill="#acbdd3">Public repositories &amp; documentation</text>
-  <path d="M50 264H770" stroke="#2a3b54"/>
-  <path d="M50 264H146" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <text x="90" y="56" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2.2" fill="#a4b6cf">PATTERNS / WORKFLOWS / POD</text>
+  <text x="48" y="150" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="70" font-weight="700" letter-spacing="2" fill="#f3f7ff">嘉潮供应链</text>
+  <text x="51" y="198" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="0.3" fill="#c5d4e7">jiachao-supply-chain</text>
+  <text x="51" y="250" font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="20" letter-spacing="1" fill="#acbdd3">图案素材 · 绘图协作 · AI 图像工具</text>
+  <path d="M50 300H770" stroke="#2a3b54"/>
+  <path d="M50 300H146" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(0 18)" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M883 101H970V158H1058V235H1128M970 158V258M970 158V62H1096" stroke="#29415e" stroke-width="2"/>
     <path d="M883 101H970V158H1058" stroke="url(#accent)" stroke-width="2.5"/>
     <rect x="850" y="68" width="66" height="66" rx="14" fill="#172f43" stroke="#67e8d5" stroke-width="2"/>
@@ -35,4 +36,5 @@
     <circle cx="1096" cy="62" r="5" fill="#0d1728" stroke="#4c749e" stroke-width="2"/>
     <circle cx="1128" cy="235" r="5" fill="#0d1728" stroke="#4c749e" stroke-width="2"/>
   </g>
+  <text x="850" y="321" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#8097b3">ASSETS / DESIGN / TOOLS</text>
 </svg>
